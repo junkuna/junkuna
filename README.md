@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkuna" alt="junkuna" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** at the University of Illinois Urbana Champaign as a Bachelor and I graduated Associate degree in Computer Science at Pierce College. 
 
 - 📫 How to reach me **junkim1207@gmail.com**
 
