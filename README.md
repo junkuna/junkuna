@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun </h1>
-<h3 align="center">A passionate Data Scientist from South Korea</h3>
+<h3 align="center">A passionate Data Scientist from UIUC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junkuna&label=Profile%20views&color=0e75b6&style=flat" alt="junkuna" /> </p>
 
