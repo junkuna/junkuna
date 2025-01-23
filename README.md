@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science** at the University of Illinois Urbana Champaign as a Bachelor and I graduated Associate degree in Computer Science at Pierce College. 
 
-- 📫 How to reach me **junkim1207@gmail.com**
+- 📫 How to reach me **junkim1207@gmail.com** or **junk6@illinois.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
