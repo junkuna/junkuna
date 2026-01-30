@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Modifying California Real Estate Project**
 
-- 🌱 I’m currently learning **Data Ethics and Policy Data Science, Modeling Data Science, and Data Structure**
+- 🌱 I’m currently learning **Ethics and Policy Data Science, Modeling Data Science, and Data Structure**
 
 - 📫 How to reach me **junkim1207@gmail.com or junk6@illinois.edu**
 
